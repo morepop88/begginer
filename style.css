@@ -1,0 +1,66 @@
+header {
+    display: block;
+}
+.site_header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ul {
+    list-style: none;
+}
+header_list {
+    position: fixed;
+    top: 60px;
+    left: 100%;
+    width: 100%;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 75px;
+}
+.section_underlayer_about {
+    background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/about-hero-pc.png);
+}
+.section_underlayer_about {
+    padding-top: 70px;
+    padding-bottom: 71px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1440px;
+    background-color: #f79314;
+}
+.underlayer_about_heading {
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    padding-left: 110px;
+}
+.site_footer {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    background-color: #f79314;
+}
+.site_footer_main {
+    position: relative;
+    padding-left: 50px;
+    padding-right:50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer_main_picture > img {
+    width: auto;
+    height: 70px;
+}
+.site_footer_sub {
+    margin-top: 60px;
+}
+.footer_sub_small {
+    position: relative;
+    padding-left: 50px;
+    padding-right:50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    font-size: 12px;
+    
+}
